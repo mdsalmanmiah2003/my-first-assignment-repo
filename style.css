@@ -1,0 +1,194 @@
+body h1{
+    font-family: font-family: 'Playfair Display', serif;
+font-family: 'Spline Sans', sans-serif;;
+}
+#first-section{
+    display: flex;
+    margin: 27px;
+    
+     
+}
+.one{
+width: 50%;
+ padding-right: 12%;
+
+}
+.one h1{
+    font-size: 70px;
+    font-weight: 500;
+    border-left: 9px solid aquamarine;
+}
+
+.two{
+color: blue;
+}
+.three{
+font-size: 30px;
+font-weight: 300;
+text-align: justify;
+}
+.four{ font-size: 40px;
+border: 4px solid rebeccapurple;
+border-radius: 14px;
+padding: 12px;
+text-decoration: none;
+background-image: linear-gradient(tomato, salmon);
+}
+.five{
+ font-size: 26px;
+ font-weight: 200;
+}
+.six{
+    
+}
+.six img{ 
+     width: 44%;
+     height: 80%;
+      
+
+}
+#second-section{
+    
+    margin-top: 3%;
+
+}
+#second-section h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+
+}
+#second-section h1 span{
+    color: fuchsia;
+}
+.main-div{
+    display: flex;
+ 
+     
+     
+}
+.a{  
+ border-radius: 14px;
+ width: 22%;
+ margin-left: 3%;
+ margin-right: 3%;
+ padding-left: 2%;
+ background-color: lavender;
+ box-shadow: 4px 4px 7px cornflowerblue;
+
+
+}
+.b{
+   border-radius: 14px;
+ width: 22%;
+ margin-left: 3%;
+ margin-right: 3%;
+ padding-left: 2%;
+ background-color:  darkorange;
+ box-shadow: 4px 4px 7px cornflowerblue;
+ 
+}
+.c{
+  border-radius: 14px;
+ width: 22%;
+ margin-left: 3%;
+ margin-right: 3%;
+ padding-left: 2%;
+ background-color: lightsteelblue;
+ box-shadow: 4px 4px 7px cornflowerblue;
+ 
+}
+.a img{
+    width: 50%;
+}
+.b img{
+  width: 50%;
+}
+.c img{
+  width: 50%;
+}
+.a h3{
+font-size: 40px;
+}
+.b h3{
+font-size: 40px;
+}
+.c h3{
+font-size: 40px;
+}
+.main-div p{
+    font-size: 18px;
+}
+#third-section{
+    margin-top: 3%;
+    display: flex;
+}
+.aa{
+    margin-left: 1%;
+ margin-right: 3%;
+ padding-left: 2%;
+}
+.aa img{
+    width: 535px;
+}
+.bb{
+    margin-left: 0%;
+ margin-right: 33%;
+ padding-left: 2%;
+}
+#third-section h1{
+     font-size: 45px;
+    font-weight: 600;
+}
+#third-section p{
+    font-size: 30px;
+font-weight: 300;
+text-align: justify;
+
+}
+#four-section{
+      margin-top: 3%;
+    display: flex;
+}
+#four-section h1{
+     font-size: 45px;
+    font-weight: 600;
+}
+#four-section p{
+       font-size: 30px;
+font-weight: 300;
+text-align: justify;
+}
+#four-section img{
+    width: 605px;
+}
+.aaa{
+ margin-left: 1%;
+ margin-right: 36%;
+ padding-left: 2%;
+}
+.bbb{
+      margin-left: -22%;
+ margin-right: 33%;
+ padding-left: 2%;
+}
+#finish{
+    background-color: wheat;
+
+}
+#finish h1{ padding-top: 2%;
+    text-align: center;
+font-size: 45px;
+    font-weight: 600;
+    font-style: inherit;
+}
+#finish h1 span{
+font-style: italic;
+color: deeppink;
+}
+#finish p{
+text-align: center;
+      font-size: 30px;
+font-weight: 300;
+}
+ 
